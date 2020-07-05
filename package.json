@@ -1,0 +1,15 @@
+{
+  "name": "nearend",
+  "version": "1.0.0",
+  "description": "THE END IS NEAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luis felipe macena",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "faker": "^4.1.0"
+  }
+}
